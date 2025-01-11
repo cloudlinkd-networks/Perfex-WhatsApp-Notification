@@ -10,6 +10,8 @@
 Our aim is to deliver maximum functionality, enabling you as a site owner to configure the plugin exactly as needed, all while maintaining an user-friendly interface.<br>
 However, it's beneficial to be familiar with all the available options.<br>
 
+Send Customer and Staff Notifications via WhatsApp to increase security of your customers through our free Perfex integration.<br>
+
 # Supported Actions
 - Invoice Overdue Notice
 - Invoice Due Notice
